@@ -1,0 +1,55 @@
+# Long Dark Co-op
+
+Online co-op for **The Long Dark** on Steam: up to 4 players in one survival world. You host with Steam lobbies
+and invite friends; there are no IP addresses to type and no ports to forward.
+
+> **Early test build.** Expect bugs. Back up your saves before playing
+> (`%LOCALAPPDATA%\Hinterland\TheLongDark`).
+
+## Install
+
+1. Close The Long Dark.
+2. Download **LongDarkCoopSetup.exe** from the [latest release](../../releases/latest) and run it.
+   Windows may warn that the app is unrecognized: click **More info**, then **Run anyway**.
+3. Check that the game folder it found is right, then click **Install / Update**.
+
+Setup installs MelonLoader 0.7.3 (the mod loader), the mod, and a small updater. After that, the game updates the
+mod by itself every time it starts, so you only run setup once.
+
+Requires The Long Dark **2.55** on Steam (Windows).
+
+## Play
+
+- **Host:** load or start a survival game, press **Esc**, then click **Host this game** in the Long Dark Co-op
+  panel and **Invite friends**.
+- **Join:** accept the Steam invite, or right-click the host in your Steam friends list and choose **Join game**.
+  Your game loads the host's world and puts you next to them.
+
+The host's world is the save. Your character (inventory, condition, skills) is kept per player, so it's waiting for
+you the next time you join that host.
+
+## What's shared
+
+- Time of day, weather and wind.
+- Doors, containers, loose items, fires, broken-down furniture, harvested plants and carcasses.
+- Wildlife: each animal runs on the nearest player's game, so wolves stalk and attack whoever they're after.
+  Shooting or hitting an animal works from any player's game.
+- Sleeping and passing time only start once every player chooses to.
+
+Coming next: being downed and revived by teammates, teammates on the map and compass, giving items to each
+other, and host tools.
+
+## Uninstall
+
+Run **LongDarkCoopSetup.exe** again and click **Uninstall**. Your saves are not touched. MelonLoader is removed only
+if this setup installed it.
+
+## Reporting a bug
+
+Send what happened, plus this file from the game folder (Steam: right-click The Long Dark, then
+**Manage → Browse local files**): `MelonLoader\Latest.log`.
+
+---
+
+The Long Dark belongs to Hinterland Studio Inc. This is a free, unofficial fan modification and is not affiliated
+with or endorsed by Hinterland.
