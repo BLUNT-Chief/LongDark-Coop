@@ -57,6 +57,7 @@ with The Long Dark, and you can install it from the game's DLC list in Steam.
 - Snow shelters, rope climbs, and lanterns, torches, flares and snares left on the ground.
 - Rock caches (built, renamed, dismantled) and what's inside them.
 - Cooking: a pot or skillet on a fire, what's cooking in it, and taking it out.
+- Decorations (nearly anything you can pick up and move around a base) where you put them.
 - Spray paint marks and ice fishing holes.
 - You hear teammates: their footsteps and their shots, where they are.
 - Wildlife: each animal runs on the nearest player's game, so wolves stalk and attack whoever they're after.
