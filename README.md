@@ -20,10 +20,14 @@ Requires The Long Dark **2.55** on Steam (Windows).
 
 ## Play
 
-- **Host:** load or start a survival game, press **Esc**, then click **Host this game** in the Long Dark Co-op
-  panel and **Invite friends**.
-- **Join:** accept the Steam invite, or right-click the host in your Steam friends list and choose **Join game**.
-  Your game loads the host's world and puts you next to them.
+- **Host:** on the main menu choose **CO-OP → HOST A GAME**, then start a new survival game or load one as usual.
+  It's open to your friends as soon as it loads. In game, press **Esc → CO-OP → INVITE FRIENDS**. (You can also
+  host a game you're already playing: **Esc → CO-OP → HOST THIS GAME**.)
+- **Join:** on the main menu choose **CO-OP**; friends who are hosting are listed there. You can also accept a
+  Steam invite, or right-click the host in your Steam friends list and choose **Join game**. Your game loads the
+  host's world and puts you next to them.
+- **Esc → CO-OP** shows who's playing and where. The host can kick or ban players, choose who can join, and back
+  up the world (it's also backed up automatically every 30 minutes).
 
 The host's world is the save. Your character (inventory, condition, skills) is kept per player, so it's waiting for
 you the next time you join that host.
@@ -44,7 +48,6 @@ you the next time you join that host.
 - **Middle mouse** marks the spot you're looking at for everyone, for 20 seconds.
 - The map is shared: whatever anyone charts with charcoal or discovers shows up on everyone's map.
 - To give someone an item, drop it near them; they can pick it up.
-- The Long Dark Co-op panel in the pause menu (**Esc**) lists where everyone is.
 
 ## Dying
 
