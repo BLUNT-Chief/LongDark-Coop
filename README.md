@@ -51,6 +51,8 @@ needs WINTERMUTE installed (it comes with The Long Dark; install it from the gam
 
 - Time of day, weather and wind.
 - Doors, containers, loose items, fires, broken-down furniture, harvested plants and carcasses.
+- Snow shelters, rope climbs, and lanterns, torches, flares and snares left on the ground.
+- You hear teammates: their footsteps and their shots, where they are.
 - Wildlife: each animal runs on the nearest player's game, so wolves stalk and attack whoever they're after.
   Shooting or hitting an animal works from any player's game.
 - Sleeping and passing time only start once every player chooses to.
@@ -71,7 +73,7 @@ for 4 seconds revives you. If nobody does within 60 seconds, the game's own resp
 and the gear you lose waits in a recovery camp where you fell. In co-op you never run out of lives, and the shared
 save is never deleted.
 
-Coming next: everything else in the world (snares, snow shelters, ropes, fishing holes, cooking and curing), and more ways to play together.
+Coming next: rock caches, spray paint, fishing holes and cooking, and more ways to play together.
 
 ## Uninstall
 
