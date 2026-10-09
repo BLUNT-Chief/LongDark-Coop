@@ -32,6 +32,21 @@ Requires The Long Dark **2.55** on Steam (Windows).
 The host's world is the save. Your character (inventory, condition, skills) is kept per player, so it's waiting for
 you the next time you join that host.
 
+## Options
+
+**CO-OP → WORLD OPTIONS** (the host's choices apply to everyone):
+
+- **Animals:** fewer, normal, more per player (a quarter more for each extra player), or x1.5, x2 or x3.
+- **Respawns:** how quickly hunted-out areas fill up again.
+- **Downed for, reviving takes, revived with:** how downed and revive work, or turn downed off.
+- **Shared map, backups, players:** whether exploration is shared, how often the world is backed up, and how many
+  can join.
+
+**CO-OP → MY OPTIONS:** name tags, edge markers, marks (middle mouse) and teammates on the map, each on or off.
+
+**CHARACTER:** which survivor your friends see you as. This uses the WINTERMUTE story mode's characters, so it
+needs WINTERMUTE installed (it comes with The Long Dark; install it from the game's DLC list in Steam).
+
 ## What's shared
 
 - Time of day, weather and wind.
@@ -56,7 +71,7 @@ for 4 seconds revives you. If nobody does within 60 seconds, the game's own resp
 and the gear you lose waits in a recovery camp where you fell. In co-op you never run out of lives, and the shared
 save is never deleted.
 
-Coming next: host tools (kick, save backups) and a real character model.
+Coming next: everything else in the world (snares, snow shelters, ropes, fishing holes, cooking and curing), and more ways to play together.
 
 ## Uninstall
 
