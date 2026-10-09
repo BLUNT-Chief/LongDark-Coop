@@ -36,6 +36,14 @@ you the next time you join that host.
   Shooting or hitting an animal works from any player's game.
 - Sleeping and passing time only start once every player chooses to.
 
+## Finding each other
+
+- Teammates show on the map in their own color, with their names. Someone indoors shows where they went in.
+- Name tags show how far away each teammate is. A teammate off screen gets a marker at the edge of your screen
+  pointing their way.
+- **Middle mouse** marks the spot you're looking at for everyone, for 20 seconds.
+- The Long Dark Co-op panel in the pause menu (**Esc**) lists where everyone is.
+
 ## Dying
 
 When you would die and a teammate is in the same area, you go down instead. A teammate who stands next to you
@@ -43,7 +51,7 @@ for 4 seconds revives you. If nobody does within 60 seconds, the game's own resp
 and the gear you lose waits in a recovery camp where you fell. In co-op you never run out of lives, and the shared
 save is never deleted.
 
-Coming next: teammates on the map and compass, giving items to each other, and host tools.
+Coming next: giving items to each other, and host tools.
 
 ## Uninstall
 
