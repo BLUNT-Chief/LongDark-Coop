@@ -59,7 +59,8 @@ with The Long Dark, and you can install it from the game's DLC list in Steam.
 - Cooking: a pot or skillet on a fire, what's cooking in it, and taking it out.
 - Decorations (nearly anything you can pick up and move around a base) where you put them.
 - Spray paint marks and ice fishing holes.
-- You hear teammates: their footsteps and their shots, where they are.
+- You hear teammates: their footsteps and their shots, where they are. They leave footprints in the snow, and
+  their breath shows in the cold.
 - Wildlife: each animal runs on the nearest player's game, so wolves stalk and attack whoever they're after.
   Shooting or hitting an animal works from any player's game.
 - Sleeping and passing time only start once every player chooses to.
