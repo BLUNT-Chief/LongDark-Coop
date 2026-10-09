@@ -42,6 +42,8 @@ you the next time you join that host.
 - Name tags show how far away each teammate is. A teammate off screen gets a marker at the edge of your screen
   pointing their way.
 - **Middle mouse** marks the spot you're looking at for everyone, for 20 seconds.
+- The map is shared: whatever anyone charts with charcoal or discovers shows up on everyone's map.
+- To give someone an item, drop it near them; they can pick it up.
 - The Long Dark Co-op panel in the pause menu (**Esc**) lists where everyone is.
 
 ## Dying
@@ -51,7 +53,7 @@ for 4 seconds revives you. If nobody does within 60 seconds, the game's own resp
 and the gear you lose waits in a recovery camp where you fell. In co-op you never run out of lives, and the shared
 save is never deleted.
 
-Coming next: giving items to each other, and host tools.
+Coming next: host tools (kick, save backups) and a real character model.
 
 ## Uninstall
 
