@@ -16,7 +16,7 @@ and invite friends; there are no IP addresses to type and no ports to forward.
 Setup installs MelonLoader 0.7.3 (the mod loader), the mod, and a small updater. After that, the game updates the
 mod by itself every time it starts, so you only run setup once.
 
-Requires The Long Dark **2.55** on Steam (Windows).
+Requires The Long Dark **2.55** on Steam (Windows). Works alongside other MelonLoader mods, ModSettings included.
 
 ## Play
 
@@ -60,6 +60,8 @@ with The Long Dark, and you can install it from the game's DLC list in Steam.
 - Cooking: a pot or skillet on a fire, what's cooking in it, and taking it out.
 - Decorations (nearly anything you can pick up and move around a base) where you put them.
 - Spray paint marks and ice fishing holes.
+- Locks you pry open, water taken from toilet tanks, aurora power switches, and smoke from a chimney whose
+  stove a teammate lit.
 - You hear teammates: their footsteps and their shots, where they are. They leave footprints in the snow, and
   their breath shows in the cold.
 - Wildlife: each animal runs on the nearest player's game, so wolves stalk and attack whoever they're after.
@@ -75,6 +77,9 @@ with The Long Dark, and you can install it from the game's DLC list in Steam.
 - The map is shared: whatever anyone charts with charcoal or discovers shows up on everyone's map.
 - **Give an item:** stand next to a teammate (within 3 m), open your backpack, pick the item and choose
   **GIVE TO <NAME>**. It goes straight into their backpack. Hold shift to give the whole stack.
+
+While something takes a moment (joining, receiving the world, waiting for everyone to sleep), a small spinning
+ring and a line of text show in the bottom right corner.
 
 ## Dying
 
