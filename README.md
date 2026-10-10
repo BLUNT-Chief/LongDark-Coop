@@ -78,8 +78,10 @@ with The Long Dark, and you can install it from the game's DLC list in Steam.
 
 ## Dying
 
-When you would die and a teammate is in the same area, you go down instead. A teammate who stands next to you
-for 4 seconds revives you. If nobody does within 60 seconds, the game's own respawn ("Cheat Death") takes over,
+When you would die and a teammate is in the same area, you go down instead, with a countdown on your screen. A
+teammate next to you gets a **Revive** prompt; holding Interact (the prompt shows the key) for 4 seconds revives
+you. Name tags show how long a downed teammate has left.
+If nobody does within 60 seconds, the game's own respawn ("Cheat Death") takes over,
 and the gear you lose waits in a recovery camp where you fell. In co-op you never run out of lives, and the shared
 save is never deleted.
 
