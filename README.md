@@ -53,6 +53,7 @@ with The Long Dark, and you can install it from the game's DLC list in Steam.
 ## What's shared
 
 - Time of day, weather and wind.
+- Every place looks the same for everyone: the same bodies, containers, loot and furniture.
 - Doors, containers, loose items, fires, broken-down furniture, harvested plants and carcasses.
 - Snow shelters, rope climbs, and lanterns, torches, flares and snares left on the ground.
 - Rock caches (built, renamed, dismantled) and what's inside them.
@@ -82,7 +83,9 @@ for 4 seconds revives you. If nobody does within 60 seconds, the game's own resp
 and the gear you lose waits in a recovery camp where you fell. In co-op you never run out of lives, and the shared
 save is never deleted.
 
-Coming next: carrying a downed teammate to shelter, and more ways to play together.
+**Carry a downed teammate:** stand next to them and press **G** to put them over your shoulder. Their countdown
+stops while you carry them, and you can take them through doors to shelter. Press **G** again to put them down.
+They add 20 kg to your load, and you can't sprint while carrying.
 
 ## Uninstall
 
